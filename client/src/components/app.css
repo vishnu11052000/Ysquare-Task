@@ -1,0 +1,21 @@
+.body{
+    margin:0;
+    padding:0;
+
+}
+
+.home{
+    background-color: #315d7a;
+    border: 0px solid white;
+    box-shadow:0 4px 10px rgba(0, 0, 0, 0.5) ;
+    width: 80%;
+    margin:0 auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.page{
+    
+    background: linear-gradient(rgb(51, 76, 90),rgb(184, 182, 182),rgb(165, 158, 158));
+
+}
